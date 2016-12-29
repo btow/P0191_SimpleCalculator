@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P0191_SimpleCalculator</string>
+    <string name="reset">Reset</string>
+    <string name="quit">Quit</string>
+    <string name="div_on_zero">Делить на 0 нельзя!</string>
+    <string name="left_field">Левое поле не заполнено</string>
+    <string name="raght_field">Правое поле не заполнено</string>
+</resources>
